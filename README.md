@@ -1,4 +1,4 @@
-<h2>Publish Backend project using .NET API to manage & get books.</h2>
+<h2>Published Backend project using .NET API to manage & get books.</h2>
 <pre>
 - ASP.NET Core API 6
 - using SQL-Server for database
