@@ -5,4 +5,4 @@
 - Authentication Microsoft identity platform (user, admin)
 </pre>
 
-check it at https://demobookdetector.azurewebsites.net/book/viewtitle 
+check it at https://ourbook.azurewebsites.net/swagger
